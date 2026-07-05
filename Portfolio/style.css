@@ -90,7 +90,7 @@
         .container2{
             width: 500px;
             height: 540px;
-            background-image: url(/Images/Portrait\ Img.jpg);
+            background-image: url(assets/portrait\ Img.jpg);
             background-position: center;
             background-size: cover;
             position: relative;
